@@ -1,3 +1,3 @@
-module github.com/RishabhAroraa/goke
+module github.com/rishabharoraa/goke
 
 go 1.17
